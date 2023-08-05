@@ -1,0 +1,10 @@
+flask
+nltk
+numpy
+pandas
+google.cloud
+requests
+json
+os
+io
+openai
